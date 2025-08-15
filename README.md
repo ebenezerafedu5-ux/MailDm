@@ -1,2 +1,2 @@
 # MailDm
-Report for my mail Dming bot
+Repository for my mail Dming bot
